@@ -151,7 +151,13 @@ input[type="checkbox"]:checked ~ .mais {
   padding: 20px;
   border-radius: 10px;
 }
-
+.propostasCamp{
+  width: 80%;
+  margin: 20px auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
 .infancia {
   width: 80%;
   margin: 20px auto;
@@ -226,7 +232,8 @@ input[type="checkbox"]:checked ~ .mais {
 .sonho h2,
 .juventude h2,
 .propostas h2,
-h1 {
+h1,
+.propostasCamp h2 {
   color: #004aad;
   margin-bottom: 10px;
 }
